@@ -1,0 +1,3 @@
+se volvio a agregar informacion al archivo
+
+luego de que se le hiciera un hard reset
