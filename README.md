@@ -8,5 +8,6 @@ Un blog realizado en el curso de Git y GitHub
 * Flujo de trabajo de GitHub
 * Las buenas practicas
 * No enviarle correos al profesor 
+* creado por mi
 
 Este **README.rm**  es solo un ejemplo y creado como prueba.
