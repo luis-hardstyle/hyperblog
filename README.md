@@ -9,5 +9,6 @@ Un blog realizado en el curso de Git y GitHub
 * Las buenas practicas
 * No enviarle correos al profesor 
 * creado por mi
+* incluye ejeplos en distintas plataformas
 
 Este **README.rm**  es solo un ejemplo y creado como prueba.
