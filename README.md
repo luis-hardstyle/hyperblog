@@ -10,5 +10,7 @@ Un blog realizado en el curso de Git y GitHub
 * No enviarle correos al profesor 
 * creado por mi
 * incluye ejeplos en distintas plataformas
+* diponible paa todas las edades
+
 
 Este **README.rm**  es solo un ejemplo y creado como prueba.
